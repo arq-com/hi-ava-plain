@@ -8,12 +8,12 @@ const variables = {
   },
   quotes: [
     { quote: "I'm sorry for loving you☹", author: "ariqoh" },
-    { quote: "I love you❤", author: "Brian" },
+    { quote: "I love you❤", author: "arq" },
     { quote: "Minal Aidzin Walfaizin gldys🤗❤!", author: "ariqoh" },
     { quote: "Mohon maaf yaakk kalo arq banyak salah kata atau tingkah🤗❤", author: "arq" },
     { quote: "Jngan Bilang Siapa² nanti banyak yang iri☹", author: "arq" },
   ],
-  nicknames: ["gldys🤗", "tayankk😂❤", "gldysscuu😂", "🤗❤", "❤", "❤🤗"],
+  nicknames: ["gldys🤗", "tayankk😂❤", "gldysscuu😂", "🤗❤"],
   generated: ["{greetings}, {nicknames}!"],
 };
 
