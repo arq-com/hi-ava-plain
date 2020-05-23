@@ -10,7 +10,7 @@ const variables = {
     { quote: "I'm sorry for loving you☹", author: "ariqoh" },
     { quote: "I love you❤", author: "Brian" },
     { quote: "Minal Aidzin Walfaizin gldys🤗❤!", author: "ariqoh" },
-    { quote: "Mohon maaf yaakk kalo arq banyak salah kata atai tingkah🤗❤", author: "arq" },
+    { quote: "Mohon maaf yaakk kalo arq banyak salah kata atau tingkah🤗❤", author: "arq" },
     { quote: "Jngan Bilang Siapa² nanti banyak yang iri☹", author: "arq" },
   ],
   nicknames: ["gldys🤗", "tayankk😂❤", "gldysscuu😂", "🤗❤", "❤", "❤🤗"],
